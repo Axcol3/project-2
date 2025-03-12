@@ -41,5 +41,5 @@ This project is an **elevator simulation**. It shows how an elevator works in a 
 
 This is a screenshot of the elevator simulation in action:
 
-![Elevator Simulation Screenshot](images/screenshots.png)
-![Elevator Simulation Screenshot](images/screenshots1.png)
+![Elevator Simulation Screenshot](screenshots.png)
+![Elevator Simulation Screenshot](screenshots1.png)
