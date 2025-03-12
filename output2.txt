@@ -1,0 +1,144 @@
+____________________________________________________________________________________
+Passengers currently in the elevator: 1
+Currently floor: 1
+Passenger called elevator from floor: 6
+Please, wait: 16 seconds
+How many passengers came out: 0
+How many passengers came in: 5
+Time of simulation: 0 minute, 26 seconds
+____________________________________________________________________________________
+Passengers currently in the elevator: 6
+Currently floor: 6
+Passenger called elevator from floor: 25
+Please, wait: 63 seconds
+How many passengers came out: 1
+How many passengers came in: 2
+Time of simulation: 1 minute, 34 seconds
+____________________________________________________________________________________
+Passengers currently in the elevator: 7
+Currently floor: 25
+Passenger called elevator from floor: 22
+Please, wait: 16 seconds
+How many passengers came out: 6
+How many passengers came in: 1
+Time of simulation: 1 minute, 58 seconds
+____________________________________________________________________________________
+Passengers currently in the elevator: 2
+Currently floor: 22
+Passenger called elevator from floor: 29
+Please, wait: 23 seconds
+How many passengers came out: 0
+How many passengers came in: 4
+Time of simulation: 2 minute, 29 seconds
+____________________________________________________________________________________
+Passengers currently in the elevator: 6
+Currently floor: 29
+Passenger called elevator from floor: 22
+Please, wait: 27 seconds
+How many passengers came out: 2
+How many passengers came in: 4
+!!!Sorry, the elevator can't handle so many passengers.
+Maximum passengers per trip: 7 !!!
+Will only be included in the allowed values: 3
+Time of simulation: 3 minute, 6 seconds
+____________________________________________________________________________________
+Passengers currently in the elevator: 7
+Currently floor: 22
+Passenger called elevator from floor: 20
+Please, wait: 13 seconds
+How many passengers came out: 3
+How many passengers came in: 3
+Time of simulation: 3 minute, 28 seconds
+____________________________________________________________________________________
+Passengers currently in the elevator: 7
+Currently floor: 20
+Passenger called elevator from floor: 19
+Please, wait: 10 seconds
+How many passengers came out: 3
+How many passengers came in: 1
+Time of simulation: 3 minute, 43 seconds
+____________________________________________________________________________________
+Passengers currently in the elevator: 5
+Currently floor: 19
+Passenger called elevator from floor: 36
+Please, wait: 56 seconds
+How many passengers came out: 3
+How many passengers came in: 3
+Time of simulation: 4 minute, 48 seconds
+____________________________________________________________________________________
+Passengers currently in the elevator: 5
+Currently floor: 36
+Passenger called elevator from floor: 22
+Please, wait: 47 seconds
+How many passengers came out: 4
+How many passengers came in: 4
+Time of simulation: 5 minute, 47 seconds
+____________________________________________________________________________________
+Passengers currently in the elevator: 5
+Currently floor: 22
+Passenger called elevator from floor: 25
+Please, wait: 14 seconds
+How many passengers came out: 2
+How many passengers came in: 3
+Time of simulation: 6 minute, 9 seconds
+
+
+Simulation completed.
+
+Analysis:
+Total time needed for all calls: 6 minute 9 seconds
+Frequency of calls from each floor:
+Floor 1 : 0
+Floor 2 : 0
+Floor 3 : 0
+Floor 4 : 0
+Floor 5 : 0
+Floor 6 : 1
+Floor 7 : 0
+Floor 8 : 0
+Floor 9 : 0
+Floor 10 : 0
+Floor 11 : 0
+Floor 12 : 0
+Floor 13 : 0
+Floor 14 : 0
+Floor 15 : 0
+Floor 16 : 0
+Floor 17 : 0
+Floor 18 : 0
+Floor 19 : 1
+Floor 20 : 1
+Floor 21 : 0
+Floor 22 : 3
+Floor 23 : 0
+Floor 24 : 0
+Floor 25 : 2
+Floor 26 : 0
+Floor 27 : 0
+Floor 28 : 0
+Floor 29 : 1
+Floor 30 : 0
+Floor 31 : 0
+Floor 32 : 0
+Floor 33 : 0
+Floor 34 : 0
+Floor 35 : 0
+Floor 36 : 1
+Floor 37 : 0
+Floor 38 : 0
+Floor 39 : 0
+Floor 40 : 0
+Floor 41 : 0
+Floor 42 : 0
+Floor 43 : 0
+Floor 44 : 0
+Floor 45 : 0
+Floor 46 : 0
+Floor 47 : 0
+Floor 48 : 0
+Floor 49 : 0
+Floor 50 : 0
+
+
+Do you want try again?(y/n): 
+Please enter correct input!

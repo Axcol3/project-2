@@ -1,0 +1,868 @@
+____________________________________________________________________________________
+Passengers currently in the elevator: 1
+Currently floor: 1
+Passenger called elevator from floor: 1
+Please, wait: 1 seconds
+How many passengers came out: 0
+How many passengers came in: 4
+!!!Sorry, the elevator can't handle so many passengers.
+Maximum passengers per trip: 4 !!!
+Will only be included in the allowed values: 3
+Time of simulation: 0 minute, 9 seconds
+____________________________________________________________________________________
+Passengers currently in the elevator: 4
+Currently floor: 1
+Passenger called elevator from floor: 2
+Please, wait: 7 seconds
+How many passengers came out: 0
+How many passengers came in: 1
+!!!Sorry, the elevator can't handle so many passengers.
+Maximum passengers per trip: 4 !!!
+Will only be included in the allowed values: 0
+Time of simulation: 0 minute, 18 seconds
+____________________________________________________________________________________
+Passengers currently in the elevator: 4
+Currently floor: 2
+Passenger called elevator from floor: 3
+Please, wait: 7 seconds
+How many passengers came out: 1
+How many passengers came in: 2
+!!!Sorry, the elevator can't handle so many passengers.
+Maximum passengers per trip: 4 !!!
+Will only be included in the allowed values: 1
+Time of simulation: 0 minute, 30 seconds
+____________________________________________________________________________________
+Passengers currently in the elevator: 4
+Currently floor: 3
+Passenger called elevator from floor: 5
+Please, wait: 10 seconds
+How many passengers came out: 0
+How many passengers came in: 2
+!!!Sorry, the elevator can't handle so many passengers.
+Maximum passengers per trip: 4 !!!
+Will only be included in the allowed values: 0
+Time of simulation: 0 minute, 44 seconds
+____________________________________________________________________________________
+Passengers currently in the elevator: 4
+Currently floor: 5
+Passenger called elevator from floor: 2
+Please, wait: 13 seconds
+How many passengers came out: 2
+How many passengers came in: 4
+!!!Sorry, the elevator can't handle so many passengers.
+Maximum passengers per trip: 4 !!!
+Will only be included in the allowed values: 2
+Time of simulation: 1 minute, 7 seconds
+____________________________________________________________________________________
+Passengers currently in the elevator: 4
+Currently floor: 2
+Passenger called elevator from floor: 4
+Please, wait: 10 seconds
+How many passengers came out: 3
+How many passengers came in: 4
+!!!Sorry, the elevator can't handle so many passengers.
+Maximum passengers per trip: 4 !!!
+Will only be included in the allowed values: 3
+Time of simulation: 1 minute, 28 seconds
+____________________________________________________________________________________
+Passengers currently in the elevator: 4
+Currently floor: 4
+Passenger called elevator from floor: 3
+Please, wait: 7 seconds
+How many passengers came out: 1
+How many passengers came in: 4
+!!!Sorry, the elevator can't handle so many passengers.
+Maximum passengers per trip: 4 !!!
+Will only be included in the allowed values: 1
+Time of simulation: 1 minute, 44 seconds
+____________________________________________________________________________________
+Passengers currently in the elevator: 4
+Currently floor: 3
+Passenger called elevator from floor: 3
+Please, wait: 4 seconds
+How many passengers came out: 1
+How many passengers came in: 4
+!!!Sorry, the elevator can't handle so many passengers.
+Maximum passengers per trip: 4 !!!
+Will only be included in the allowed values: 1
+Time of simulation: 1 minute, 57 seconds
+____________________________________________________________________________________
+Passengers currently in the elevator: 4
+Currently floor: 3
+Passenger called elevator from floor: 3
+Please, wait: 4 seconds
+How many passengers came out: 1
+How many passengers came in: 3
+!!!Sorry, the elevator can't handle so many passengers.
+Maximum passengers per trip: 4 !!!
+Will only be included in the allowed values: 1
+Time of simulation: 2 minute, 8 seconds
+____________________________________________________________________________________
+Passengers currently in the elevator: 4
+Currently floor: 3
+Passenger called elevator from floor: 4
+Please, wait: 7 seconds
+How many passengers came out: 0
+How many passengers came in: 1
+!!!Sorry, the elevator can't handle so many passengers.
+Maximum passengers per trip: 4 !!!
+Will only be included in the allowed values: 0
+Time of simulation: 2 minute, 17 seconds
+____________________________________________________________________________________
+Passengers currently in the elevator: 4
+Currently floor: 4
+Passenger called elevator from floor: 5
+Please, wait: 7 seconds
+How many passengers came out: 3
+How many passengers came in: 2
+Time of simulation: 2 minute, 31 seconds
+____________________________________________________________________________________
+Passengers currently in the elevator: 3
+Currently floor: 5
+Passenger called elevator from floor: 5
+Please, wait: 3 seconds
+How many passengers came out: 1
+How many passengers came in: 2
+Time of simulation: 2 minute, 39 seconds
+____________________________________________________________________________________
+Passengers currently in the elevator: 4
+Currently floor: 5
+Passenger called elevator from floor: 2
+Please, wait: 13 seconds
+How many passengers came out: 0
+How many passengers came in: 4
+!!!Sorry, the elevator can't handle so many passengers.
+Maximum passengers per trip: 4 !!!
+Will only be included in the allowed values: 0
+Time of simulation: 3 minute, 0 seconds
+____________________________________________________________________________________
+Passengers currently in the elevator: 4
+Currently floor: 2
+Passenger called elevator from floor: 3
+Please, wait: 7 seconds
+How many passengers came out: 3
+How many passengers came in: 2
+Time of simulation: 3 minute, 14 seconds
+____________________________________________________________________________________
+Passengers currently in the elevator: 3
+Currently floor: 3
+Passenger called elevator from floor: 3
+Please, wait: 3 seconds
+How many passengers came out: 2
+How many passengers came in: 1
+Time of simulation: 3 minute, 21 seconds
+____________________________________________________________________________________
+Passengers currently in the elevator: 2
+Currently floor: 3
+Passenger called elevator from floor: 4
+Please, wait: 5 seconds
+How many passengers came out: 0
+How many passengers came in: 4
+!!!Sorry, the elevator can't handle so many passengers.
+Maximum passengers per trip: 4 !!!
+Will only be included in the allowed values: 2
+Time of simulation: 3 minute, 34 seconds
+____________________________________________________________________________________
+Passengers currently in the elevator: 4
+Currently floor: 4
+Passenger called elevator from floor: 4
+Please, wait: 4 seconds
+How many passengers came out: 2
+How many passengers came in: 3
+!!!Sorry, the elevator can't handle so many passengers.
+Maximum passengers per trip: 4 !!!
+Will only be included in the allowed values: 2
+Time of simulation: 3 minute, 46 seconds
+____________________________________________________________________________________
+Passengers currently in the elevator: 4
+Currently floor: 4
+Passenger called elevator from floor: 1
+Please, wait: 13 seconds
+How many passengers came out: 0
+How many passengers came in: 4
+!!!Sorry, the elevator can't handle so many passengers.
+Maximum passengers per trip: 4 !!!
+Will only be included in the allowed values: 0
+Time of simulation: 4 minute, 7 seconds
+____________________________________________________________________________________
+Passengers currently in the elevator: 4
+Currently floor: 1
+Passenger called elevator from floor: 4
+Please, wait: 13 seconds
+How many passengers came out: 2
+How many passengers came in: 2
+Time of simulation: 4 minute, 26 seconds
+____________________________________________________________________________________
+Passengers currently in the elevator: 4
+Currently floor: 4
+Passenger called elevator from floor: 3
+Please, wait: 7 seconds
+How many passengers came out: 2
+How many passengers came in: 4
+!!!Sorry, the elevator can't handle so many passengers.
+Maximum passengers per trip: 4 !!!
+Will only be included in the allowed values: 2
+Time of simulation: 4 minute, 43 seconds
+____________________________________________________________________________________
+Passengers currently in the elevator: 4
+Currently floor: 3
+Passenger called elevator from floor: 1
+Please, wait: 10 seconds
+How many passengers came out: 3
+How many passengers came in: 3
+Time of simulation: 5 minute, 2 seconds
+____________________________________________________________________________________
+Passengers currently in the elevator: 4
+Currently floor: 1
+Passenger called elevator from floor: 1
+Please, wait: 4 seconds
+How many passengers came out: 2
+How many passengers came in: 3
+!!!Sorry, the elevator can't handle so many passengers.
+Maximum passengers per trip: 4 !!!
+Will only be included in the allowed values: 2
+Time of simulation: 5 minute, 14 seconds
+____________________________________________________________________________________
+Passengers currently in the elevator: 4
+Currently floor: 1
+Passenger called elevator from floor: 1
+Please, wait: 4 seconds
+How many passengers came out: 3
+How many passengers came in: 4
+!!!Sorry, the elevator can't handle so many passengers.
+Maximum passengers per trip: 4 !!!
+Will only be included in the allowed values: 3
+Time of simulation: 5 minute, 29 seconds
+____________________________________________________________________________________
+Passengers currently in the elevator: 4
+Currently floor: 1
+Passenger called elevator from floor: 1
+Please, wait: 4 seconds
+How many passengers came out: 3
+How many passengers came in: 1
+Time of simulation: 5 minute, 38 seconds
+____________________________________________________________________________________
+Passengers currently in the elevator: 2
+Currently floor: 1
+Passenger called elevator from floor: 2
+Please, wait: 5 seconds
+How many passengers came out: 1
+How many passengers came in: 4
+!!!Sorry, the elevator can't handle so many passengers.
+Maximum passengers per trip: 4 !!!
+Will only be included in the allowed values: 3
+Time of simulation: 5 minute, 52 seconds
+____________________________________________________________________________________
+Passengers currently in the elevator: 4
+Currently floor: 2
+Passenger called elevator from floor: 4
+Please, wait: 10 seconds
+How many passengers came out: 3
+How many passengers came in: 1
+Time of simulation: 6 minute, 7 seconds
+____________________________________________________________________________________
+Passengers currently in the elevator: 2
+Currently floor: 4
+Passenger called elevator from floor: 4
+Please, wait: 2 seconds
+How many passengers came out: 0
+How many passengers came in: 2
+Time of simulation: 6 minute, 13 seconds
+____________________________________________________________________________________
+Passengers currently in the elevator: 4
+Currently floor: 4
+Passenger called elevator from floor: 4
+Please, wait: 4 seconds
+How many passengers came out: 0
+How many passengers came in: 3
+!!!Sorry, the elevator can't handle so many passengers.
+Maximum passengers per trip: 4 !!!
+Will only be included in the allowed values: 0
+Time of simulation: 6 minute, 23 seconds
+____________________________________________________________________________________
+Passengers currently in the elevator: 4
+Currently floor: 4
+Passenger called elevator from floor: 3
+Please, wait: 7 seconds
+How many passengers came out: 1
+How many passengers came in: 3
+!!!Sorry, the elevator can't handle so many passengers.
+Maximum passengers per trip: 4 !!!
+Will only be included in the allowed values: 1
+Time of simulation: 6 minute, 37 seconds
+____________________________________________________________________________________
+Passengers currently in the elevator: 4
+Currently floor: 3
+Passenger called elevator from floor: 2
+Please, wait: 7 seconds
+How many passengers came out: 0
+How many passengers came in: 4
+!!!Sorry, the elevator can't handle so many passengers.
+Maximum passengers per trip: 4 !!!
+Will only be included in the allowed values: 0
+Time of simulation: 6 minute, 52 seconds
+____________________________________________________________________________________
+Passengers currently in the elevator: 4
+Currently floor: 2
+Passenger called elevator from floor: 1
+Please, wait: 7 seconds
+How many passengers came out: 3
+How many passengers came in: 2
+Time of simulation: 7 minute, 6 seconds
+____________________________________________________________________________________
+Passengers currently in the elevator: 3
+Currently floor: 1
+Passenger called elevator from floor: 4
+Please, wait: 12 seconds
+How many passengers came out: 0
+How many passengers came in: 2
+!!!Sorry, the elevator can't handle so many passengers.
+Maximum passengers per trip: 4 !!!
+Will only be included in the allowed values: 1
+Time of simulation: 7 minute, 22 seconds
+____________________________________________________________________________________
+Passengers currently in the elevator: 4
+Currently floor: 4
+Passenger called elevator from floor: 3
+Please, wait: 7 seconds
+How many passengers came out: 1
+How many passengers came in: 4
+!!!Sorry, the elevator can't handle so many passengers.
+Maximum passengers per trip: 4 !!!
+Will only be included in the allowed values: 1
+Time of simulation: 7 minute, 38 seconds
+____________________________________________________________________________________
+Passengers currently in the elevator: 4
+Currently floor: 3
+Passenger called elevator from floor: 5
+Please, wait: 10 seconds
+How many passengers came out: 0
+How many passengers came in: 3
+!!!Sorry, the elevator can't handle so many passengers.
+Maximum passengers per trip: 4 !!!
+Will only be included in the allowed values: 0
+Time of simulation: 7 minute, 54 seconds
+____________________________________________________________________________________
+Passengers currently in the elevator: 4
+Currently floor: 5
+Passenger called elevator from floor: 1
+Please, wait: 16 seconds
+How many passengers came out: 1
+How many passengers came in: 2
+!!!Sorry, the elevator can't handle so many passengers.
+Maximum passengers per trip: 4 !!!
+Will only be included in the allowed values: 1
+Time of simulation: 8 minute, 15 seconds
+____________________________________________________________________________________
+Passengers currently in the elevator: 4
+Currently floor: 1
+Passenger called elevator from floor: 4
+Please, wait: 13 seconds
+How many passengers came out: 1
+How many passengers came in: 3
+!!!Sorry, the elevator can't handle so many passengers.
+Maximum passengers per trip: 4 !!!
+Will only be included in the allowed values: 1
+Time of simulation: 8 minute, 35 seconds
+____________________________________________________________________________________
+Passengers currently in the elevator: 4
+Currently floor: 4
+Passenger called elevator from floor: 4
+Please, wait: 4 seconds
+How many passengers came out: 0
+How many passengers came in: 1
+!!!Sorry, the elevator can't handle so many passengers.
+Maximum passengers per trip: 4 !!!
+Will only be included in the allowed values: 0
+Time of simulation: 8 minute, 41 seconds
+____________________________________________________________________________________
+Passengers currently in the elevator: 4
+Currently floor: 4
+Passenger called elevator from floor: 1
+Please, wait: 13 seconds
+How many passengers came out: 3
+How many passengers came in: 2
+Time of simulation: 9 minute, 1 seconds
+____________________________________________________________________________________
+Passengers currently in the elevator: 3
+Currently floor: 1
+Passenger called elevator from floor: 3
+Please, wait: 9 seconds
+How many passengers came out: 0
+How many passengers came in: 4
+!!!Sorry, the elevator can't handle so many passengers.
+Maximum passengers per trip: 4 !!!
+Will only be included in the allowed values: 1
+Time of simulation: 9 minute, 18 seconds
+____________________________________________________________________________________
+Passengers currently in the elevator: 4
+Currently floor: 3
+Passenger called elevator from floor: 1
+Please, wait: 10 seconds
+How many passengers came out: 2
+How many passengers came in: 2
+Time of simulation: 9 minute, 34 seconds
+____________________________________________________________________________________
+Passengers currently in the elevator: 4
+Currently floor: 1
+Passenger called elevator from floor: 5
+Please, wait: 16 seconds
+How many passengers came out: 3
+How many passengers came in: 2
+Time of simulation: 9 minute, 57 seconds
+____________________________________________________________________________________
+Passengers currently in the elevator: 3
+Currently floor: 5
+Passenger called elevator from floor: 2
+Please, wait: 12 seconds
+How many passengers came out: 2
+How many passengers came in: 4
+!!!Sorry, the elevator can't handle so many passengers.
+Maximum passengers per trip: 4 !!!
+Will only be included in the allowed values: 3
+Time of simulation: 10 minute, 19 seconds
+____________________________________________________________________________________
+Passengers currently in the elevator: 4
+Currently floor: 2
+Passenger called elevator from floor: 1
+Please, wait: 7 seconds
+How many passengers came out: 1
+How many passengers came in: 2
+!!!Sorry, the elevator can't handle so many passengers.
+Maximum passengers per trip: 4 !!!
+Will only be included in the allowed values: 1
+Time of simulation: 10 minute, 31 seconds
+____________________________________________________________________________________
+Passengers currently in the elevator: 4
+Currently floor: 1
+Passenger called elevator from floor: 1
+Please, wait: 4 seconds
+How many passengers came out: 3
+How many passengers came in: 1
+Time of simulation: 10 minute, 40 seconds
+____________________________________________________________________________________
+Passengers currently in the elevator: 2
+Currently floor: 1
+Passenger called elevator from floor: 2
+Please, wait: 5 seconds
+How many passengers came out: 1
+How many passengers came in: 3
+Time of simulation: 10 minute, 52 seconds
+____________________________________________________________________________________
+Passengers currently in the elevator: 4
+Currently floor: 2
+Passenger called elevator from floor: 2
+Please, wait: 4 seconds
+How many passengers came out: 0
+How many passengers came in: 1
+!!!Sorry, the elevator can't handle so many passengers.
+Maximum passengers per trip: 4 !!!
+Will only be included in the allowed values: 0
+Time of simulation: 10 minute, 58 seconds
+____________________________________________________________________________________
+Passengers currently in the elevator: 4
+Currently floor: 2
+Passenger called elevator from floor: 1
+Please, wait: 7 seconds
+How many passengers came out: 2
+How many passengers came in: 3
+!!!Sorry, the elevator can't handle so many passengers.
+Maximum passengers per trip: 4 !!!
+Will only be included in the allowed values: 2
+Time of simulation: 11 minute, 13 seconds
+____________________________________________________________________________________
+Passengers currently in the elevator: 4
+Currently floor: 1
+Passenger called elevator from floor: 5
+Please, wait: 16 seconds
+How many passengers came out: 0
+How many passengers came in: 4
+!!!Sorry, the elevator can't handle so many passengers.
+Maximum passengers per trip: 4 !!!
+Will only be included in the allowed values: 0
+Time of simulation: 11 minute, 37 seconds
+____________________________________________________________________________________
+Passengers currently in the elevator: 4
+Currently floor: 5
+Passenger called elevator from floor: 2
+Please, wait: 13 seconds
+How many passengers came out: 0
+How many passengers came in: 1
+!!!Sorry, the elevator can't handle so many passengers.
+Maximum passengers per trip: 4 !!!
+Will only be included in the allowed values: 0
+Time of simulation: 11 minute, 52 seconds
+____________________________________________________________________________________
+Passengers currently in the elevator: 4
+Currently floor: 2
+Passenger called elevator from floor: 5
+Please, wait: 13 seconds
+How many passengers came out: 1
+How many passengers came in: 2
+!!!Sorry, the elevator can't handle so many passengers.
+Maximum passengers per trip: 4 !!!
+Will only be included in the allowed values: 1
+Time of simulation: 12 minute, 10 seconds
+____________________________________________________________________________________
+Passengers currently in the elevator: 4
+Currently floor: 5
+Passenger called elevator from floor: 2
+Please, wait: 13 seconds
+How many passengers came out: 0
+How many passengers came in: 4
+!!!Sorry, the elevator can't handle so many passengers.
+Maximum passengers per trip: 4 !!!
+Will only be included in the allowed values: 0
+Time of simulation: 12 minute, 31 seconds
+____________________________________________________________________________________
+Passengers currently in the elevator: 4
+Currently floor: 2
+Passenger called elevator from floor: 5
+Please, wait: 13 seconds
+How many passengers came out: 2
+How many passengers came in: 2
+Time of simulation: 12 minute, 50 seconds
+____________________________________________________________________________________
+Passengers currently in the elevator: 4
+Currently floor: 5
+Passenger called elevator from floor: 2
+Please, wait: 13 seconds
+How many passengers came out: 2
+How many passengers came in: 1
+Time of simulation: 13 minute, 7 seconds
+____________________________________________________________________________________
+Passengers currently in the elevator: 3
+Currently floor: 2
+Passenger called elevator from floor: 5
+Please, wait: 12 seconds
+How many passengers came out: 2
+How many passengers came in: 3
+Time of simulation: 13 minute, 27 seconds
+____________________________________________________________________________________
+Passengers currently in the elevator: 4
+Currently floor: 5
+Passenger called elevator from floor: 3
+Please, wait: 10 seconds
+How many passengers came out: 1
+How many passengers came in: 4
+!!!Sorry, the elevator can't handle so many passengers.
+Maximum passengers per trip: 4 !!!
+Will only be included in the allowed values: 1
+Time of simulation: 13 minute, 46 seconds
+____________________________________________________________________________________
+Passengers currently in the elevator: 4
+Currently floor: 3
+Passenger called elevator from floor: 1
+Please, wait: 10 seconds
+How many passengers came out: 3
+How many passengers came in: 4
+!!!Sorry, the elevator can't handle so many passengers.
+Maximum passengers per trip: 4 !!!
+Will only be included in the allowed values: 3
+Time of simulation: 14 minute, 7 seconds
+____________________________________________________________________________________
+Passengers currently in the elevator: 4
+Currently floor: 1
+Passenger called elevator from floor: 1
+Please, wait: 4 seconds
+How many passengers came out: 3
+How many passengers came in: 3
+Time of simulation: 14 minute, 20 seconds
+____________________________________________________________________________________
+Passengers currently in the elevator: 4
+Currently floor: 1
+Passenger called elevator from floor: 4
+Please, wait: 13 seconds
+How many passengers came out: 3
+How many passengers came in: 4
+!!!Sorry, the elevator can't handle so many passengers.
+Maximum passengers per trip: 4 !!!
+Will only be included in the allowed values: 3
+Time of simulation: 14 minute, 44 seconds
+____________________________________________________________________________________
+Passengers currently in the elevator: 4
+Currently floor: 4
+Passenger called elevator from floor: 5
+Please, wait: 7 seconds
+How many passengers came out: 3
+How many passengers came in: 4
+!!!Sorry, the elevator can't handle so many passengers.
+Maximum passengers per trip: 4 !!!
+Will only be included in the allowed values: 3
+Time of simulation: 15 minute, 2 seconds
+____________________________________________________________________________________
+Passengers currently in the elevator: 4
+Currently floor: 5
+Passenger called elevator from floor: 2
+Please, wait: 13 seconds
+How many passengers came out: 2
+How many passengers came in: 4
+!!!Sorry, the elevator can't handle so many passengers.
+Maximum passengers per trip: 4 !!!
+Will only be included in the allowed values: 2
+Time of simulation: 15 minute, 25 seconds
+____________________________________________________________________________________
+Passengers currently in the elevator: 4
+Currently floor: 2
+Passenger called elevator from floor: 1
+Please, wait: 7 seconds
+How many passengers came out: 1
+How many passengers came in: 4
+!!!Sorry, the elevator can't handle so many passengers.
+Maximum passengers per trip: 4 !!!
+Will only be included in the allowed values: 1
+Time of simulation: 15 minute, 41 seconds
+____________________________________________________________________________________
+Passengers currently in the elevator: 4
+Currently floor: 1
+Passenger called elevator from floor: 2
+Please, wait: 7 seconds
+How many passengers came out: 1
+How many passengers came in: 2
+!!!Sorry, the elevator can't handle so many passengers.
+Maximum passengers per trip: 4 !!!
+Will only be included in the allowed values: 1
+Time of simulation: 15 minute, 53 seconds
+____________________________________________________________________________________
+Passengers currently in the elevator: 4
+Currently floor: 2
+Passenger called elevator from floor: 3
+Please, wait: 7 seconds
+How many passengers came out: 0
+How many passengers came in: 2
+!!!Sorry, the elevator can't handle so many passengers.
+Maximum passengers per trip: 4 !!!
+Will only be included in the allowed values: 0
+Time of simulation: 16 minute, 4 seconds
+____________________________________________________________________________________
+Passengers currently in the elevator: 4
+Currently floor: 3
+Passenger called elevator from floor: 1
+Please, wait: 10 seconds
+How many passengers came out: 0
+How many passengers came in: 1
+!!!Sorry, the elevator can't handle so many passengers.
+Maximum passengers per trip: 4 !!!
+Will only be included in the allowed values: 0
+Time of simulation: 16 minute, 16 seconds
+____________________________________________________________________________________
+Passengers currently in the elevator: 4
+Currently floor: 1
+Passenger called elevator from floor: 3
+Please, wait: 10 seconds
+How many passengers came out: 2
+How many passengers came in: 4
+!!!Sorry, the elevator can't handle so many passengers.
+Maximum passengers per trip: 4 !!!
+Will only be included in the allowed values: 2
+Time of simulation: 16 minute, 36 seconds
+____________________________________________________________________________________
+Passengers currently in the elevator: 4
+Currently floor: 3
+Passenger called elevator from floor: 3
+Please, wait: 4 seconds
+How many passengers came out: 0
+How many passengers came in: 3
+!!!Sorry, the elevator can't handle so many passengers.
+Maximum passengers per trip: 4 !!!
+Will only be included in the allowed values: 0
+Time of simulation: 16 minute, 46 seconds
+____________________________________________________________________________________
+Passengers currently in the elevator: 4
+Currently floor: 3
+Passenger called elevator from floor: 5
+Please, wait: 10 seconds
+How many passengers came out: 3
+How many passengers came in: 2
+Time of simulation: 17 minute, 3 seconds
+____________________________________________________________________________________
+Passengers currently in the elevator: 3
+Currently floor: 5
+Passenger called elevator from floor: 2
+Please, wait: 12 seconds
+How many passengers came out: 0
+How many passengers came in: 2
+!!!Sorry, the elevator can't handle so many passengers.
+Maximum passengers per trip: 4 !!!
+Will only be included in the allowed values: 1
+Time of simulation: 17 minute, 19 seconds
+____________________________________________________________________________________
+Passengers currently in the elevator: 4
+Currently floor: 2
+Passenger called elevator from floor: 4
+Please, wait: 10 seconds
+How many passengers came out: 0
+How many passengers came in: 1
+!!!Sorry, the elevator can't handle so many passengers.
+Maximum passengers per trip: 4 !!!
+Will only be included in the allowed values: 0
+Time of simulation: 17 minute, 31 seconds
+____________________________________________________________________________________
+Passengers currently in the elevator: 4
+Currently floor: 4
+Passenger called elevator from floor: 2
+Please, wait: 10 seconds
+How many passengers came out: 1
+How many passengers came in: 1
+Time of simulation: 17 minute, 44 seconds
+____________________________________________________________________________________
+Passengers currently in the elevator: 4
+Currently floor: 2
+Passenger called elevator from floor: 1
+Please, wait: 7 seconds
+How many passengers came out: 0
+How many passengers came in: 2
+!!!Sorry, the elevator can't handle so many passengers.
+Maximum passengers per trip: 4 !!!
+Will only be included in the allowed values: 0
+Time of simulation: 17 minute, 55 seconds
+____________________________________________________________________________________
+Passengers currently in the elevator: 4
+Currently floor: 1
+Passenger called elevator from floor: 4
+Please, wait: 13 seconds
+How many passengers came out: 2
+How many passengers came in: 4
+!!!Sorry, the elevator can't handle so many passengers.
+Maximum passengers per trip: 4 !!!
+Will only be included in the allowed values: 2
+Time of simulation: 18 minute, 18 seconds
+____________________________________________________________________________________
+Passengers currently in the elevator: 4
+Currently floor: 4
+Passenger called elevator from floor: 4
+Please, wait: 4 seconds
+How many passengers came out: 0
+How many passengers came in: 4
+!!!Sorry, the elevator can't handle so many passengers.
+Maximum passengers per trip: 4 !!!
+Will only be included in the allowed values: 0
+Time of simulation: 18 minute, 30 seconds
+____________________________________________________________________________________
+Passengers currently in the elevator: 4
+Currently floor: 4
+Passenger called elevator from floor: 2
+Please, wait: 10 seconds
+How many passengers came out: 2
+How many passengers came in: 3
+!!!Sorry, the elevator can't handle so many passengers.
+Maximum passengers per trip: 4 !!!
+Will only be included in the allowed values: 2
+Time of simulation: 18 minute, 48 seconds
+____________________________________________________________________________________
+Passengers currently in the elevator: 4
+Currently floor: 2
+Passenger called elevator from floor: 2
+Please, wait: 4 seconds
+How many passengers came out: 1
+How many passengers came in: 3
+!!!Sorry, the elevator can't handle so many passengers.
+Maximum passengers per trip: 4 !!!
+Will only be included in the allowed values: 1
+Time of simulation: 18 minute, 59 seconds
+____________________________________________________________________________________
+Passengers currently in the elevator: 4
+Currently floor: 2
+Passenger called elevator from floor: 1
+Please, wait: 7 seconds
+How many passengers came out: 2
+How many passengers came in: 1
+Time of simulation: 19 minute, 10 seconds
+____________________________________________________________________________________
+Passengers currently in the elevator: 3
+Currently floor: 1
+Passenger called elevator from floor: 3
+Please, wait: 9 seconds
+How many passengers came out: 1
+How many passengers came in: 4
+!!!Sorry, the elevator can't handle so many passengers.
+Maximum passengers per trip: 4 !!!
+Will only be included in the allowed values: 2
+Time of simulation: 19 minute, 28 seconds
+____________________________________________________________________________________
+Passengers currently in the elevator: 4
+Currently floor: 3
+Passenger called elevator from floor: 2
+Please, wait: 7 seconds
+How many passengers came out: 2
+How many passengers came in: 3
+!!!Sorry, the elevator can't handle so many passengers.
+Maximum passengers per trip: 4 !!!
+Will only be included in the allowed values: 2
+Time of simulation: 19 minute, 43 seconds
+____________________________________________________________________________________
+Passengers currently in the elevator: 4
+Currently floor: 2
+Passenger called elevator from floor: 4
+Please, wait: 10 seconds
+How many passengers came out: 3
+How many passengers came in: 3
+Time of simulation: 20 minute, 2 seconds
+____________________________________________________________________________________
+Passengers currently in the elevator: 4
+Currently floor: 4
+Passenger called elevator from floor: 2
+Please, wait: 10 seconds
+How many passengers came out: 1
+How many passengers came in: 2
+!!!Sorry, the elevator can't handle so many passengers.
+Maximum passengers per trip: 4 !!!
+Will only be included in the allowed values: 1
+Time of simulation: 20 minute, 17 seconds
+____________________________________________________________________________________
+Passengers currently in the elevator: 4
+Currently floor: 2
+Passenger called elevator from floor: 5
+Please, wait: 13 seconds
+How many passengers came out: 1
+How many passengers came in: 4
+!!!Sorry, the elevator can't handle so many passengers.
+Maximum passengers per trip: 4 !!!
+Will only be included in the allowed values: 1
+Time of simulation: 20 minute, 39 seconds
+____________________________________________________________________________________
+Passengers currently in the elevator: 4
+Currently floor: 5
+Passenger called elevator from floor: 5
+Please, wait: 4 seconds
+How many passengers came out: 2
+How many passengers came in: 1
+Time of simulation: 20 minute, 47 seconds
+____________________________________________________________________________________
+Passengers currently in the elevator: 3
+Currently floor: 5
+Passenger called elevator from floor: 4
+Please, wait: 6 seconds
+How many passengers came out: 0
+How many passengers came in: 2
+!!!Sorry, the elevator can't handle so many passengers.
+Maximum passengers per trip: 4 !!!
+Will only be included in the allowed values: 1
+Time of simulation: 20 minute, 57 seconds
+____________________________________________________________________________________
+Passengers currently in the elevator: 4
+Currently floor: 4
+Passenger called elevator from floor: 5
+Please, wait: 7 seconds
+How many passengers came out: 0
+How many passengers came in: 2
+!!!Sorry, the elevator can't handle so many passengers.
+Maximum passengers per trip: 4 !!!
+Will only be included in the allowed values: 0
+Time of simulation: 21 minute, 8 seconds
+
+
+Simulation completed.
+
+Analysis:
+Total time needed for all calls: 21 minute 8 seconds
+Frequency of calls from each floor:
+Floor 1 : 19
+Floor 2 : 19
+Floor 3 : 15
+Floor 4 : 17
+Floor 5 : 14
+
+
+Do you want try again?(y/n): 
+Please enter correct input!
