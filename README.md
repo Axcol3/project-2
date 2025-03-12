@@ -37,3 +37,9 @@ This project is an **elevator simulation**. It shows how an elevator works in a 
 - The simulation runs **until the user decides to stop**.  
 - The program helps understand **how an elevator works in real life**.  
 
+# Elevator Simulation Project
+
+This is a screenshot of the elevator simulation in action:
+
+![Elevator Simulation Screenshot](images/screenshot.png)
+![Elevator Simulation Screenshot](images/screenshot1.png)
