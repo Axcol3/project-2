@@ -4,7 +4,7 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.util.*;
 
-public class Project1 {
+public class code {
 	public static boolean isNumeric(String str) { //Ckeck if input is number
         try {
             Integer.parseInt(str);  
@@ -64,37 +64,35 @@ public class Project1 {
 		return result; // return result
 	} 
     public static void main(String[] args) {
+        int con = 0;
 		boolean control = true;// to stop programm if user doesn't want continue 
+		try (PrintWriter writer = new PrintWriter("output3.txt")) {
 		while (control){
 			System.out.println("Welcome to Elevator Simulation!\n\nInitializing elevator system...");
 			Scanner input = new Scanner(System.in);
-			ArrayList<Integer> arr = new ArrayList<>(); // to save input from user
+			ArrayList<String> arr = new ArrayList<>(); // to save input from user
         	Path filePath = Path.of("input3.txt");
 			String finish = ""; //string for saving decision of "Do you want try again?" (y/n)
         	try {
             	List<String> lines = Files.readAllLines(filePath);
-				int i = 1;
             	for (String line : lines) {
-					if (i == 4) break;
-					if(isNumeric(line)){ //this function check if it is num 
-                	     arr.add(Integer.parseInt(line.trim()));
-					}else if(i == 4){
-						finish += line.trim();
-					}
-					i++;
+					arr.add(line);
             	}
         	} catch (IOException e) {
             	System.out.println("Error: " + e.getMessage());
 			}
 			System.out.println("Number of floors: ");
-			int numOfFloors = arr.get(0);//get from the array
-			System.out.println("Maximum passengers per trip: ");
-			int maxPass = arr.get(1);
-			System.out.println("Simulation duration in minutes: ");
-			int controlTime = arr.get(2);
-	    	System.out.println("Simulating passenger calls...");
+			int numOfFloors = Integer.parseInt(arr.get(con++));//get from the array
 			
-			try (PrintWriter writer = new PrintWriter("output3.txt")) {
+			System.out.println("Maximum passengers per trip: ");
+			int maxPass = Integer.parseInt(arr.get(con++));
+			
+			System.out.println("Simulation duration in minutes: ");
+			int controlTime = Integer.parseInt(arr.get(con++));
+			
+	    	System.out.println("Simulating passenger calls...");
+			finish = arr.get(con++);
+			
 				ArrayList<Integer> result = new ArrayList<>(Simulate(controlTime, numOfFloors, maxPass, writer));//call function Simulate()
 				writer.println("\n\nSimulation completed.\n\nAnalysis:\nTotal time needed for all calls: " + (result.get(result.size() - 2)) + " minute " + (result.get(result.size() - 1)) + " seconds\nFrequency of calls from each floor:");
             	for(int i = 0; i < result.size() - 2; i++){//loop for saving result in file
@@ -109,10 +107,10 @@ public class Project1 {
 				}else{
 					writer.println("Please enter correct input!");//if user input chars or num 
 				}
-			}catch (IOException e) {
+			}
+		}catch (IOException e) {
             System.out.println("An error occurred while writing to the file.");
             e.printStackTrace();
         }
-		}
     }
 }
